@@ -1,0 +1,3 @@
+cloudscraper
+flask
+requests
